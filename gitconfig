@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = raphael.breitschaft@gmail.com
+	name = Raphael Breitschaft
